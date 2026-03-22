@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Apex Pathing Docs",
+  title: "Supernova Pathing Docs",
   description: "Documentation for the Supernova pathing library for FTC",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
