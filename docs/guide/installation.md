@@ -1,6 +1,6 @@
 # Process Overview
 
-## Prerequisites    
+## Prerequisites  
 * Your robot must have a common drivetrain option. Holonomic options supported are Swerve or Mecanum. Tank drive is also supported, but it will not unlock the full potential of Apex Pathing
 * A localization system: We currently support Gobilda Pinpoint, Three Wheel Localizer, and 2 Wheel + IMU Localizer
 * Must have Android Studio and be comfortable coding in java or kotlin.
