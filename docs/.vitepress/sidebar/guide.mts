@@ -9,7 +9,7 @@ export default [
         collapsed: false,
         items: [
             {
-                text: 'Velocity Tuner'
+                text: 'Velocity Tuner',
                 link: '/guide/velocity'
             }
         ]
