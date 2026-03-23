@@ -3,6 +3,6 @@ export default {
   description: 'ApexPathing Docs',
   base: '/Supernova-Docs/', // Add this line!
   themeConfig: {
-    nav: [{ text: 'Home', link: '/' }]
+    nav: [{ text: 'Home', link: '/test.md' }]
   }
 }
