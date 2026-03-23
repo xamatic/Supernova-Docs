@@ -1,7 +1,8 @@
 export default {
   title: "ApexPathing Docs",
+  description: 'ApexPathing Docs'
   base: '/Supernova-Docs/', // Add this line!
   themeConfig: {
-    nav: [{ text: 'ApexPathing Documentation', link: '/' }]
+    nav: [{ text: 'Home', link: '/' }]
   }
 }
