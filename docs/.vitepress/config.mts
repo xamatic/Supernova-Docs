@@ -5,6 +5,9 @@ export default defineConfig({
   description: 'ApexPathing Docs',
   base: '/Supernova-Docs/',
   themeConfig: {
-    nav: [{ text: 'Home', link: '/test' }]
+    nav: [
+      { text: 'About', link: '/about' },
+      { text: 'Guide', link: '/guide'}
+    ]
   }
 })
