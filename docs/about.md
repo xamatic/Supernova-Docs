@@ -1,3 +1,9 @@
+---
+next:
+  text: 'Guide'
+  link: '/guide/installation'
+---
+
 # Our Story { .gradient-title-page }
 
 :::info What Do Our Goals look like?
