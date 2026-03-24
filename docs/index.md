@@ -53,7 +53,7 @@ hero:
   <p>Insert information here</p>
 </div>
 
-<div id="content-holder-long" class="information-container">
+<div id="content-holder-long" class="idk-container">
   <div id="flex-box-grid" class="idk-container">
     <div id="left-side">
       <div id="contain">
@@ -77,6 +77,7 @@ hero:
     gap: 10px;
     column-gap: 10px;
     height: 25vw;
+    max-height: 500px;
     width: min-width;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
    }
